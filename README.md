@@ -14,7 +14,7 @@ Considering the integrity of the data, I chose the Yelp public dataset. The data
     - Based on reviewers: the duration of the reviewer’s use of Yelp, The average usefulness of the reviewer’s reviews, Whether the reviewer is a repeat customer.
     - Category features: Statistical features based on the 'useful' field.
 - Feature Augmentation: Cross-processing of fields highly related to usefulness
-- Finally, I got 168 variables
+- Finally, I got 190 variables
 
 ## Model Training and Evaluation:
 - Linear regression model： Mean Absolute Error (MAE) of 0.61 and a Mean Squared Error (MSE) of 1.89.
